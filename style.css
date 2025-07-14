@@ -103,7 +103,7 @@ main {
 }
 
 .input-container input::placeholder {
-    color: rgba(7, 7, 7, 0.6);
+    color: rgba(3, 0, 0, 0.642);
 }
 
 input:focus {
